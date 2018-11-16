@@ -11,7 +11,7 @@ class TextfolhaspSpider (scrapy.Spider):
     global_paginas = 0
 
     def start_requests (self):
-        urls = ['https://www1.folha.uol.com.br/poder/848627-congresso-espera-2000-convidados-para-cerimonia-de-posse-de-dilma.shtml'
+        urls = ['https://www1.folha.uol.com.br/poder/2018/10/bolsonaro-diz-que-acao-no-tse-sobre-mensagens-e-fato-politico-inveridico.shtml'
                 ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -43,14 +43,14 @@ class TextfolhaspSpider (scrapy.Spider):
                 f.write ('url: '+str (text_url)+'\n')
                 f.write ('title: ')
                 for i in text_title:
-                    f.write (str (i))
+                    f.write (i.encode('utf-8'))
 
                 f.write ('\n')
-                f.write ('date: '+str (text_date)+'\n')
+                f.write ('date: '.encode('utf-8') + text_date.encode('utf-8') +'\n')
                 self.log (text_date)
                 f.write ('text: \n')
                 for i in text_body:
-                    f.write (str(i))
+                    f.write (i.encode('utf-8'))
 
         # parser para notícias novas
         elif (response.xpath ('//div["c-news__content"]').extract()):
@@ -58,7 +58,7 @@ class TextfolhaspSpider (scrapy.Spider):
             with open (f_name, 'w') as f:
 
                 # pega a data
-                tag_date = str(response.xpath ('//time["c-more-options__published-date/datetime"]').extract_first())
+                tag_date = response.xpath ('//time["c-more-options__published-date/datetime"]').extract_first().encode('utf-8')
                 regex_date = re.compile ('\d{4}\-\d{2}\-\d{2}')
                 text_date_reverse = regex_date.findall(tag_date).pop()
                 text_date = text_date_reverse[8:10] + '/' + text_date_reverse[5:7] + '/' + text_date_reverse[0:4]
@@ -69,12 +69,12 @@ class TextfolhaspSpider (scrapy.Spider):
                 text_title = response.xpath ('//h1[@class="c-content-head__title"]/text()').extract().pop()
                 text_body = response.xpath ('//div[@class="c-news__body"]/p/text()').extract()
 
-                f.write ('title: ' + str (text_title) + '\n')
+                f.write ('title: ' + text_title.encode('utf-8') + '\n')
                 f.write ('date: ' + str (text_date) + '\n')
                 self.log (text_date)
                 f.write ('text: \n')
                 for i in text_body:
-                    f.write (str(i))
+                    f.write (i.encode('utf-8'))
 
 
         self.global_paginas =+ 1
