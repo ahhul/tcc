@@ -8,11 +8,22 @@ class TextfolhaspSpider (scrapy.Spider):
     name = 'textfolhasp'
     #allowed_domains = ['www.folha.uol.com.br', 'www1.folha.uol.com.br']
     #start_urls = ['http://www.folha.uol.com.br/']
-    global_paginas = 0
+    global_links = 1
+
+    def login(self , response):
+        data = {
+            'email' : 'feromagen@gmail.com',
+            'pass' : 'Corbomitelog2!',
+            'login' : 'login'
+        }
+        yield FormRequest(url=self.login_url, formdata=data ,callback=self.parse)
+
 
     def start_requests (self):
-        urls = ['https://www1.folha.uol.com.br/poder/2018/10/bolsonaro-diz-que-acao-no-tse-sobre-mensagens-e-fato-politico-inveridico.shtml'
-                ]
+        user_agent = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"
+
+        with open ("extracted_texts/links_folhasp_michel_temer.txt", "r") as f:
+            urls = f.readlines()
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
@@ -21,7 +32,7 @@ class TextfolhaspSpider (scrapy.Spider):
         regex_url = re.compile ('[a-zA-Z+-]+\.shtml')
         text_url = str (response.request.url)
         self.log (text_url)
-        filename = regex_url.findall(text_url).pop()[:-6]
+        filename = 'text_' + str(self.global_links)
 
         if (filename[0] == '-'):
             name_file = filename[1:]
