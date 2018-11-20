@@ -1,0 +1,31 @@
+title: BMW para pessoas com deficiência
+date: 30/07/2018
+text: 
+Vendas do programa batizado de 'Preference' representaram 1,5% do total comercializado pela BMW no Brasil em 2017, incluindo os modelos importados. "A lei deve ser igual para todos", defende a montadora. Modelos da linha X1 são os mais procurados. 
+
+                                                            
+
+
+    // AudimaWidget.objectId = "";
+    AudimaWidget.behaviorDesktop(AudimaWidget.PLAYER);
+    AudimaWidget.behaviorResponsive(AudimaWidget.FIXED);
+    AudimaWidget.adClassResponsive('');
+    AudimaWidget.enableNextAudio(true);
+    AudimaWidget.customStyle('');
+    AudimaWidget.playerSkin('default');
+IMAGEM 01: Vendas do programa batizado de ‘Preference’ representaram 1,5% do total comercializado pela BMW no Brasil em 2017, incluindo os modelos importados. “A lei deve ser igual para todos”, defende a montadora. Modelos da linha X1 são os mais procurados. DESCRIÇÃO PARA CEGO VER: Foto do BMW X1 de cor branca. O carro está em movimento, em uma estrada. No canto superior esquerdo, a logomarca do programa BMW Preference, que tem o símbolo de uma pessoa na cadeira de rodas. Crédito: Divulgação
+O programa BMW Preference reforça a isonomia da legislação que garante a pessoas com deficiência a isenção de impostos na compra de carro zero. “A lei deve ser igual para todos”, afirma Michel Araújo, gerente de vendas diretas da fabricante.
+Todos os veículos novos da marca têm preço acima de R$ 70 mil e podem ser vendidos com isenção de IPI (Imposto sobre Produtos Industrializados). “Recentemente, a BMW conseguiu autorização para também comercializar nesse canal de vendas os veículos importados”, explica Araújo. “Um potencial cliente elegível à isenção do IPI pode usar o benefício para adquirir qualquer modelo BMW e MINI”, comenta o gerente.
+IMAGEM 02: Michel Araújo é gerente de vendas diretas da BMW no Brasil. DESCRIÇÃO PARA CEGO VER: Imagem dupla. No lado esquerdo, foto do gerente Michel Araújo. Ele veste camisa branca, com paletó e gravata cinza. No lado direito, um cartaz do ‘BMW Preference’ mostra um homem sorrindo ao volante e um carro, além de diversas informações sobre o programa e fotos de veículos. Crédito: Divulgação
+Os modelos mais procurados são da linha X1, vendidos a R$ 191.950 (sDrive20i GP), R$ 206.950 (sDrive20i X-Line) e R$ 232.950 (xDrive25i Sport). Com a isenção de IPI, esses valores chegam a R$ 156.950 (sDrive20i GP), R$ 169.950 (sDrive20i X-Line) e R$ 192.950 (xDrive25i Sport).
+A linha 320i está logo abaixo na lista. Seus modelos têm valores entre de R$ 169.950 (Sport Plus ActiveFlex), R$ 184.950 (Sport GP Plus ActiveFlex) e R$ 197.950 (M Sport Plus ActiveFlex). Sem o IPI, os mesmos carros têm preços entre R$ 138.950 (Sport Plus ActiveFlex), R$ 151.950 (Sport GP Plus ActiveFlex) e R$ 169.950 (M Sport Plus ActiveFlex).
+Desde o começo do programa, que foi lançado após a inauguração, em 2014, da fábrica da BMW em Araquari (Santa Catarina), a empresa tem orientado suas concessionárias sobre as melhores práticas para atender pessoas com deficiência. Em 2017, 164 unidades foram vendidas pelo canal Preference, o que representa 1,5% do montante de vendas da montadora no ano.
+
+A inclusão de modelos importados na isenção de IPI para pessoas com deficiência começou a ganhar destaque a partir do projeto que a montadora sueca Volvo lançou no Brasil em 2016, o Volvo For All. “Tivemos conhecimento desse programa em um evento do setor, durante conversa com um representante da Volvo”, conta Michel Araújo. “Levei essa ideia para a BMW e fomos informados que eramos elegíveis. Nossos modelos importados foram incluídos no canal Preference em 2017”, diz o executivo.
+As vendas de carros premium não serão afetadas pela recente mudança nas regras para isenção de ICMS (Imposto sobre Circulação de Mercadorias e Serviços), que ampliou para quatro anos o intervalo para pessoas com deficiência renovarem esse benefício, aplicado em veículos que custam até R$ 70 mil (clique aqui para saber mais).
+Quer receber as notícias do #blogVencerLimites pelo WhatsApp? Adicione (11) 97611-6558 aos contatos e mande a frase ‘VencerLimitesWhatsApp’
+Mande mensagem, crítica ou sugestão para blogVencerLimites@gmail.com
+Acompanhe o #blogVencerLimites nas redes sociais
+Facebook – Twitter – Instagram – LinkedIn – Google+ – YouTube
+console.log('Aud01');
+                                                        

@@ -22,7 +22,7 @@ class BuscaestadospSpider(scrapy.Spider):
         
         with open (file_name, 'a') as f:
             for url in response.xpath('//a[@class="link-title"]/@href').extract():
-                f.write (url.encode('utf-8'))
+                f.write (str(url))
                 f.write ('\n')
         
         regexdig = re.compile(r"D=\d+")

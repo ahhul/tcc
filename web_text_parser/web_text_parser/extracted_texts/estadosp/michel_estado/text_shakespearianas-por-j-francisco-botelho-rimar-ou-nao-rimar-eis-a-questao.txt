@@ -1,0 +1,57 @@
+title: SHAKESPEARIANAS, por J. Francisco Botelho: Rimar ou não rimar, eis a questão
+date: 30/06/2018
+text: 
+José Francisco Botelho, premiado tradutor dos "Contos da Cantuária", de Chaucer, e de "Romeu e Julieta" e "Júlio César", de Shakespeare, estreia sua nova coluna no Estado da Arte: Shakespearianas. 
+
+                                                            
+
+por José Francisco Botelho
+Tortuosas, nebulosas, misteriosas: assim são as origens da rima. Jean de Nostradamus – irmão caçula de Michel, famoso rimador e astrólogo – garante-nos, em Vie des poètes provençaux, que o hábito de repetir sons ao fim dos versos é invenção de um certo Bardus, rei dos gauleses, que teria vivido “no ano 2140 da criação do mundo” (algo em torno do ano 4 mil a.C.); também houve quem atribuísse a importante inovação a Samoteu, filho de Jafé; outros fazem a rima coetânea da própria linguagem e remontam sua criação às andanças do tataravô Adão pelo Jardim do Éden. Massaud Moisés, por outro lado, nos diz que a rima não é nativa de nenhuma língua indo-europeia; teria existido desde eras remotas entre os chineses, os hebreus e os árabes, passando depois ao sânscrito e ao persa. A homofonia vocabular é mencionada na Retórica– mas Aristóteles estava falando de recursos eventualmente usados na prosa, não na poesia. O verso rimado, como o conhecemos hoje, teria surgido nas literaturas ocidentais por volta do século X, conhecendo grande sucesso por longos períodos – e atraindo, mais tarde, a execração de variados inovadores, como Verlaine, que vociferou contra “les torts de la Rime” em sua Arte Poética (1882).
+Os poetas anglo-saxões aparentemente conheciam a rima, mas preferiam não usá-la – seu recurso favorito era a aliteração. Geoffrey Chaucer (1343-1400) embebeu-se de homofonia poética em suas viagens à França e à Itália; de volta à Inglaterra, escreveu os 17 mil dos Contos da Cantuária – rimando-os do início ao fim. Shakespeare, naturalmente, também rimava – e não apenas em seus Sonetos. Embora o veículo principal de suas peças seja o verso branco, entremeado de passagens em prosa, as parelhas rimadas são poderoso recurso em seu arsenal melódico e dramático. Muitos personagens shakespearianos põem-se a rimar quando estão prestes a deixar o palco; é o caso de Macbeth, na Cena II, Ato I, da peça escocesa:
+ 
+Hear it not, Duncan, for it is a knell
+That summons thee to heaven or to hell. 
+ 
+Outros rimam ao sentir da cutilada do Cupido. É o que faz Romeu, ao deparar-se com Julieta pela primeira vez:
+ 
+Oh, she doth teach the torches to burn bright!
+It seems she hangs upon the cheek of night
+ 
+Em outras ocasiões, a rima aflora aos lábios dos morituri, os personagens prestes a morrer; é o caso de Bruto, na cena final de Júlio César:
+ 
+Farewell, good Strato. Caesar, now be still:
+I killed not thee with half so good a will. 
+ 
+A rima também surge, enfim, como remate retórico de um discurso. Henrique IV, na peça homônima, assim encerra um solilóquio lamentando as agruras da vida monárquica:
+ 
+                     Then, happy low, lie down:
+Uneasy lies the head that wears a crown.
+
+Pois bem: como deveria agir perante a rima o temerário aventureiro que se põe a traduzir poesia? Alguns tradutores de Shakespeare preferem ignorá-la completamente, assim como aos demais elementos do verso – e nem por isso deixam de produzir excelentes trabalhos. Há ótimas traduções de Shakespeare em prosa ou verso livre. Aliás, o argumento para a exclusão da rima é perfeitamente razoável: assim como a métrica, ela dificultaria a reprodução das sutilezas semânticas e das complexidades retóricas. Como diria Verlaine: les torts de la Rime.
+É chegada a hora, porém, de confessar meus vícios passadistas. Perdão, Verlaine, perdão, mon cher! Eu gosto de rimar.
+Quando comecei a traduzir Shakespeare, decidi que recriaria, em português, todos os elementos da versificação: a linha silábica, o ritmo e, quando fosse o caso, a rima. Mas isso não significava ignorar os possíveis danos que a busca pela homofonia estrita pode causar ao fluxo do sentido. Minha solução foi incorporar um recurso antigo na língua, mas por muito tempo desprezado pela poesia culta: a rima toante.
+Como se sabe, há basicamente dois tipos de rima em português. A mais conhecida é a rima consoante, ou completa: nela, há equivalência entre todos os fonemas a partir da vogal tônica. Por exemplo: bravata e batata. Já a rima toante, conhecida também como assoante ou vocálica, caracteriza-se pela repetição da vogal tônica, mas não das consoantes. Foi usada amplamente na literatura espanhola; floresceu em Portugal após o domínio dos Filipes (1580-1640); antes disso, já era encontrada no cancioneiro galaico-português, aparecendo também em muitos poemas populares: romances, xácaras, quadrinhas. Deixo aqui um exemplo do Romanceiro Popular Açoriano:
+ 
+Um rei que tinha três filhas,
+Todas três mui bem tratava
+A mais moça delas todas
+Dona Branca se chamava. 
+Filha minha, Dona Branca,
+Serás minha namorada
+(…)
+Deus vos salve, minhas manas,
+Dêem-me um copo de água,
+Que eu à sede e à fome morro,
+Com securas da minh’alma.
+No século XIX, a rima toante foi famosamente condenada por António Feliciano de Castilhos em seu clássico Tratado de metrificação portuguesa. A partir daí, por algum tempo, ficou restrita à poesia oral popular. No Brasil, além de vicejar do cordel à trova gaúcha, a rima toante foi resgatada por Cecília Meirelles, de forma especialmente espetacular, em seu Romanceiro da Inconfidência. No que diz respeito à tradução poética, sua grande vantagem é proporcionar um certo grau de homofonia ao mesmo tempo em que deixa espaço mais amplo para a escolha vocabular. Utilizei esse recurso, por exemplo, em Romeu e Julieta, Cena II do Ato II, quando Romeu e o Frade têm um diálogo totalmente em parelhas rimadas. Abaixo, algumas de minhas soluções:
+O amor dos jovens mora, já percebo, 
+No caprichoso olhar e não peito; 
+(…)
+O céu inda recorda teus suspiros;
+Teu choro ainda ecoa em meus ouvidos;
+E na tua face permanece a marca
+De uma lágrima antiga e apaixonada. 
+ 
+Além das virtudes que já mencionei, a rima toante, quando bem usada, tem o condão de vivificar a língua, revelando afinidades, consonâncias, ecos e estribilhos onde antes talvez não os imaginássemos. É como uma pedrinha lançada na superfície das palavras: coloca a linguagem em movimento e a faz assumir, ou criar, insuspeitadas formas e simetrias.
+José Francisco Botelho traduziu “Contos da Cantuária” (Chaucer) e “Romeu e Julieta” e “Júlio César” (Shakespeare) para a Penguin/Companhia das Letras, tendo vencido duas vezes o Jabuti na categoria de tradução. É escritor, jornalista e tradutor. Seu livro de contos A árvore que falava aramaico (Zouk – 2011) foi finalista do prêmio Açorianos. 
+                                                        
