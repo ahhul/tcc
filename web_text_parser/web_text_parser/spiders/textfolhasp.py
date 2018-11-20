@@ -20,27 +20,24 @@ class TextfolhaspSpider (scrapy.Spider):
 
 
     def start_requests (self):
-        user_agent = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"
-
-        with open ("extracted_texts/links_folhasp_michel_temer.txt", "r") as f:
-            urls = f.readlines()
+        urls = [ 'https://www1.folha.uol.com.br/poder/2018/10/geddel-e-irmao-ficam-em-silencio-em-depoimento-sobre-bunker.shtm',
+'https://www1.folha.uol.com.br/mercado/2018/10/pasta-da-industria-e-comercio-entregara-guia-de-abertura-comercial-a-guedes.shtm',
+'https://www1.folha.uol.com.br/poder/2018/10/equipe-de-bolsonaro-entrega-22-nomes-do-grupo-de-transicao-ao-planalto.shtm',
+'https://www1.folha.uol.com.br/mercado/2018/10/capacidade-de-bolsonaro-de-aprovar-reformas-definira-recuperacao-de-nota-de-credito-do-brasil-diz-sp.shtm']
+        #with open ("extracted_texts/links_folhasp_michel_temer.txt", "r") as f:
+        #    urls = f.readlines()
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse (self, response):
         save_path = 'extracted_texts/folhasp/'
-        regex_url = re.compile ('[a-zA-Z+-]+\.shtml')
+        regex_url = re.compile (r'((?:[a-z\d*]+\-)+[a-z\d*]+)')
         text_url = str (response.request.url)
-        self.log (text_url)
-        filename = 'text_' + str(self.global_links)
+        name_file = re.findall(regex_url, text_url)
+        self.log (name_file)
+        file_name = 'text_' + name_file.pop()
 
-        if (filename[0] == '-'):
-            name_file = filename[1:]
-
-        else:
-            name_file = filename
-
-        f_name = os.path.join (save_path, name_file + ".txt")
+        f_name = os.path.join (save_path, file_name + ".txt")
 
         # parser para notícias velhas
         if (response.xpath ('//div[@id="articleNew"]/text()').extract()):
