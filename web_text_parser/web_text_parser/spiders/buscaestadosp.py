@@ -9,16 +9,16 @@ class BuscaestadospSpider(scrapy.Spider):
     #start_urls = ['https://busca.estadao.com.br/modulos/busca-resultado?modulo=busca-resultado&config%5Bbusca%5D%5Bpage%5D=1&config%5Bbusca%5D%5Bparams%5D=tipo_conteudo%3DTodos%26quando%3D01%252F01%252F2010-31%252F10%252F2018%26q%3Dmichel%2520temer&ajax=1']
 
     def start_requests (self):
-        urls = ['https://busca.estadao.com.br/modulos/busca-resultado?modulo=busca-resultado&config%5Bbusca%5D%5Bpage%5D=1&config%5Bbusca%5D%5Bparams%5D=tipo_conteudo%3DTodos%26quando%3D01%252F01%252F2010-31%252F10%252F2018%26q%3Dmichel%2520temer&ajax=1']
+        urls = ['https://busca.estadao.com.br/modulos/busca-resultado?modulo=busca-resultado&config%5Bbusca%5D%5Bpage%5D=1&config%5Bbusca%5D%5Bparams%5D=tipo_conteudo%3DTodos%26quando%3D01%252F01%252F2018-31%252F08%252F2018%26q%3Dmichel%2520temer&ajax=1']
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
                     
     def parse (self, response):
         
-        name_subject = 'michel_temer'
+        name_subject = 'michel_temer_01-01-2018--31-08-2018.txt'
         save_path = 'extracted_texts/'
         name_file = 'links_estadosp_' + name_subject
-        file_name = os.path.join (save_path, name_file + ".txt")
+        file_name = os.path.join (save_path, name_file)
         
         with open (file_name, 'a') as f:
             for url in response.xpath('//a[@class="link-title"]/@href').extract():
