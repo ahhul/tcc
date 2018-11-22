@@ -1,6 +1,0 @@
-url: https://www1.folha.uol.com.br/poder/2018/02/apos-atrasos-e-cortes-construcao-de-submarino-entra-na-reta-final-no-rio.shtml
-title: 
-    Após atrasos e cortes, construção de submarino entra na reta final no Rio
-  
-date: 20/02/2018
-text: 

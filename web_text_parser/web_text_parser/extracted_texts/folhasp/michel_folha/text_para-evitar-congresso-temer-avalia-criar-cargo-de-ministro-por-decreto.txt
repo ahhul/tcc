@@ -1,7 +1,0 @@
-url: https://www1.folha.uol.com.br/poder/2018/02/para-evitar-congresso-temer-avalia-criar-cargo-de-ministro-por-decreto.shtml
-title: 
-    Para evitar Congresso, Temer avalia criar cargo de ministro por decreto
-  
-date: 22/02/2018
-text: 
-Para evitar uma derrota no Congresso Nacional, o presidente Michel Temer avalia instituir o cargo de secretário extraordinário de Segurança Pública por meio de decreto, sem criar uma nova estrutura ministerial.

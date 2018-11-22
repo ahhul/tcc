@@ -1,6 +1,0 @@
-url: https://www1.folha.uol.com.br/poder/2018/02/maia-diz-que-candidatura-de-temer-e-problema-do-planalto.shtml
-title: 
-    Maia diz que candidatura de Temer é problema do Planalto
-  
-date: 21/02/2018
-text: 

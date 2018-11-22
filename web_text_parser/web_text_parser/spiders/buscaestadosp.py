@@ -9,13 +9,13 @@ class BuscaestadospSpider(scrapy.Spider):
     #start_urls = ['https://busca.estadao.com.br/modulos/busca-resultado?modulo=busca-resultado&config%5Bbusca%5D%5Bpage%5D=1&config%5Bbusca%5D%5Bparams%5D=tipo_conteudo%3DTodos%26quando%3D01%252F01%252F2010-31%252F10%252F2018%26q%3Dmichel%2520temer&ajax=1']
 
     def start_requests (self):
-        urls = ['https://busca.estadao.com.br/modulos/busca-resultado?modulo=busca-resultado&config%5Bbusca%5D%5Bpage%5D=1&config%5Bbusca%5D%5Bparams%5D=tipo_conteudo%3DTodos%26quando%3D01%252F01%252F2018-31%252F08%252F2018%26q%3Dmichel%2520temer&ajax=1']
+        urls = ['https://busca.estadao.com.br/modulos/busca-resultado?modulo=busca-resultado&config%5Bbusca%5D%5Bpage%5D=1&config%5Bbusca%5D%5Bparams%5D=tipo_conteudo%3DTodos%26quando%3D31%252F08%252F2017-31%252F08%252F2018%26q%3Dgoverno%2520temer%26editoria%255B%255D%3DPol%25C3%25ADtica%26editoria%255B%255D%3DEconomia%26editoria%255B%255D%3DInternacional%26editoria%255B%255D%3DPolitica%26editoria%255B%255D%3Dpolitica&ajax=1']
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
                     
     def parse (self, response):
         
-        name_subject = 'michel_temer_01-01-2018--31-08-2018.txt'
+        name_subject = 'michel_temer_31-08-2017--31-08-2018.txt'
         save_path = 'extracted_texts/'
         name_file = 'links_estadosp_' + name_subject
         file_name = os.path.join (save_path, name_file)

@@ -1,8 +1,0 @@
-url: https://www1.folha.uol.com.br/mercado/2018/06/camara-aprova-projeto-que-regulamenta-duplicata-eletronica.shtml
-title: 
-    Câmara aprova projeto que regulamenta duplicata eletrônica
-  
-date: 06/06/2018
-text: 
-A Câmara dos Deputados aprovou nesta quarta-feira (6) projeto que regulamenta a duplicata eletrônica. O projeto cria um registro eletrônico e centralizado desses documentos. O texto agora segue para análise do Senado Federal. A duplicata é um título de crédito que pode ser usado para cobrar débitos. O texto cria a obrigatoriedade de que esses títulos, que hoje ficam dispersos, sejam registrados em certificadoras autorizadas pelo BC. O projeto de autoria do deputado Júlio Lopes (PP-RJ) foi patrocinado pela equipe econômica de Michel Temer.O texto enfrentou resistências dos cartórios, já que a ideia inicial era que o registro eletrônico eliminasse a necessidade do chamado protesto do título — citação pública do devedor, para que ele pague a dívida.O procedimento é executado por cartórios de protestos de títulos e gera renda para essas casas e também para os Tribunais de Justiça, Defensorias Públicas e Ministérios Públicos regionais.Na redação final, o artigo que acabava com o protesto do título foi retirado. 
- 

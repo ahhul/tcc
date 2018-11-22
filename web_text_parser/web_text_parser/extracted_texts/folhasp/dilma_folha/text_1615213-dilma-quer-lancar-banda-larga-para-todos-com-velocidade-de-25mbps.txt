@@ -1,0 +1,28 @@
+url: https://www1.folha.uol.com.br/mercado/2015/04/1615213-dilma-quer-lancar-banda-larga-para-todos-com-velocidade-de-25mbps.shtml
+title: Dilma quer lançar 'banda larga para todos' com velocidade de 25Mbps
+date: 11/04/2015
+text: 
+
+Em meio a um ajuste fiscal, o Ministério das Comunicações prepara um projeto para levar internet com velocidade de 25 Mbps a 98% dos domicílios até 2018, usando recursos de um fundo setorial que hoje ajuda o governo a fazer caixa para pagar os juros de sua dívida.
+
+Batizado de Banda Larga para Todos, o plano é uma promessa de campanha da presidente Dilma Rousseff, que pretende universalizar a internet e elevar a velocidade das conexões a patamares de nações de ponta, como a Coreia do Sul, onde a internet é de 25 Mbps. No Brasil, essa média é de 2,9 Mbps, segundo a consultoria Akamai.
+
+A  apurou que, para se tornar realidade, o governo estuda fazer parcerias público-privadas com as operadoras ainda no primeiro semestre deste ano. O investimento seria de R$ 50 bilhões. O governo entraria com R$ 15 bilhões, e as teles, com a diferença (R$ 35 bilhões).
+
+Os recursos públicos sairiam do Fistel (Fundo de Fiscalização das Telecomunicações), que hoje conta com R$ 47 bilhões em caixa e ajuda pagar as contas da Anatel (Agência Nacional de Telecomunicações) e os outros fundos setoriais.
+
+Para receber esse dinheiro, as teles teriam de participar de uma concorrência conhecida como leilão reverso (porque recebem dinheiro em vez de gastar –como ocorreu no leilão do 4G).
+
+Ainda segundo apurou a reportagem, não há detalhes dos critérios para esse leilão. Esses R$ 15 bilhões do Fistel seriam usados inicialmente pelas teles, que fariam investimentos próprios numa segunda etapa, quando o programa já estivesse em curso.
+
+
+
+As empresas só vêm empecilhos na iniciativa do governo. Primeiro, não acreditam que será possível convencer o Ministério da Fazenda a abrir mão do Fistel em um momento de crise na economia e de contenção de gastos.
+
+Além disso, elas dizem não ter como bancar R$ 35 bilhões em investimentos sem comprometer seu retorno ao prestar esse tipo de serviço. Hoje, a média anual de investimento das teles é de 15% a 20% da receita. Para atingir esse patamar (25 Mbps), seria preciso aumentar essa proporção a cerca de 30% construindo redes de fibra óptica que ficariam ociosas na maior parte dos locais.
+
+A saída, para elas, seria usar o próprio PNBL e estabelecer uma meta de conexão de até 10 Mbps. Para isso, investiriam na rede existente de fios de cobre encurtando a distância entre as centrais das operadoras e as caixas que fazem as conexões com os domicílios.
+
+Por meio de sua assessoria, o ministério confirmou que o projeto está em elaboração, mas não comentou detalhes dizendo que se tratam apenas de estimativas. O Tesouro Nacional disse que ainda não participa do desenvolvimento do programa.
+
+Não é a primeira vez que o governo cria um projeto desse porte. Em 2010, a presidente lançou o PNBL (Plano Nacional de Banda Larga) para levar conexões de até 1 Mbps a 68% dos domicílios. Mas só conseguiu a adesão de 2,6 milhões de assinantes. O serviço é prestado pelas teles que aderiram ao programa.

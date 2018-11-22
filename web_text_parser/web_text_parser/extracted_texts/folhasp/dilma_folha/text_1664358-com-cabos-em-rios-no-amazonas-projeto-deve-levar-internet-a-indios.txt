@@ -1,0 +1,38 @@
+url: https://www1.folha.uol.com.br/mercado/2015/08/1664358-com-cabos-em-rios-no-amazonas-projeto-deve-levar-internet-a-indios.shtml
+title: Com cabos em rios no Amazonas, projeto deve levar internet a índios
+date: 04/08/2015
+text: 
+
+Os sinuosos rios da bacia amazônica, que abastecem a vida de milhões de pessoas na maior floresta tropical do mundo, agora vão ajudar a conectar populações indígenas e ribeirinhas à internet.
+
+O projeto Amazônia Conectada, já em andamento, pretende levar 7.800 km de cabos de fibra óptica pelo leito dos rios do Amazonas, Estado que concentra a maior parcela de floresta, interligando quase quatro milhões de pessoas à banda larga.
+
+O projeto, estimado em R$ 500 milhões, envolve três ministérios e o Exército. Dez quilômetros já foram instalados na etapa piloto em Manaus (AM), que servirá de centro operacional do sistema.
+
+
+
+Mais de 50 municípios serão conectados, integrando quatro milhões de pessoas. O Pará já manifestou interesse para ser o próximo Estado a receber os cabos subfluviais.
+
+O leito dos rios foi a forma mais econômica e menos ambientalmente agressiva para se cruzar milhares de quilômetros de floresta sem recorrer a desmates, desapropriações, invasões de terras indígenas, construção de torres ou outros obstáculos naturais, comuns em grandes obras na Amazônia.
+
+O sistema por fibra óptica chega a ser três vezes mais barato do que os satélites, que ainda são instáveis.
+
+O mesmo conceito foi adotado pela Siemens, para levar o telégrafo até Manaus.
+
+"A sacada é usar uma infraestrutura que já existe, que são os rios. O impacto é quase zero", diz Gorgonio Araújo, diretor-adjunto de soluções da RNP (Rede Nacional de Ensino e Pesquisa).
+
+Segundo o Índice de Progresso Social da Amazônia, realizado pela ONG Imazon (Instituto do Homem e Meio Ambiente da Amazônia), apenas 23,4% da população amazônica tem computador em casa conectado à internet.
+
+"A Amazônia tem um potencial inestimável, e assim alcançaremos maior desenvolvimento social, econômico, questões de cidadania, serviços e políticas públicas", completa Araújo.
+
+A meta é oferecer serviço de internet de alta velocidade por meio de operadoras, que explorarão a infraestrutura, e encurtar distâncias para ensino a distância, telemedicina e segurança pública. O Exército vai usufruir da internet sobretudo para o monitoramento de fronteiras, além de usar sua experiência de selva para orientar os trabalhos de instalação.
+
+Cinco infovias serão utilizadas, nos rios Negro, Solimões, Madeira, Juruá e Purus. O cabo principal, que contém seis faixas capazes de transmitir a seis gigabytes por segundo, será apenas posicionado no leito dos rios, e não enterrado —isso multiplicaria os valores gastos. O peso do cabo (um quilo por metro) deve ajudar para que haja um aterramento natural.
+
+"Enterrar seria o ideal, mas o custo é proibitivo. O maior inimigo dos cabos é a pesca, âncoras, além da sabotagem. É um trabalho minucioso. No projeto piloto, estudamos o leito do rio por cinco meses, e lançamos o cabo em dois dias", explica o general Decílio de Medeiros Sales, chefe do Centro Integrado de Telemática do Exército.
+
+O cronograma prevê a conclusão das infovias em 2017, mas ainda há muito a ser feito. O orçamento, que já foi de R$ 1 bilhão, caiu pela metade graças à escolha pela fibra óptica importada, mais barata. Mas ainda pode mudar.
+
+A maior parte do programa será bancada pela Defesa, mas os recursos também virão dos Ministério das Ciência e Tecnologia, Comunicações, além do governo do Amazonas. O serviço será operado pela Telebras.
+
+Levar internet rápida a parte da Amazônia também será um protótipo para um plano maior, o Banda Larga para Todos, promessa de campanha de Dilma Rousseff em 2014, que pretende levar o serviço a 90% das cidades.

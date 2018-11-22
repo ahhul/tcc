@@ -11,14 +11,13 @@ class BuscafolhaspSpider (scrapy.Spider):
     jump_page = 25
 
     def start_requests (self):
-        urls = ['http://search.folha.uol.com.br/search?q=dilma%20roussef&site=todos&sd=01%2F01%2F2015&ed=31%2F08%2F2016&periodo=personalizado&results_count=124&search_time=0%2C304&url=http%3A%2F%2Fsearch.folha.uol.com.br%2Fsearch%3Fq%3Ddilma%2520roussef%26site%3Dtodos%26sd%3D01%252F01%252F2015%26ed%3D31%252F08%252F2016%26periodo%3Dpersonalizado&sr=0']
-        
+        urls = ['http://search.folha.uol.com.br/search?q=governo%20temer&site%5B%5D=online%2Fpensata&site%5B%5D=online%2Fpaineldoleitor&site%5B%5D=online%2Fdinheiro&site%5B%5D=online%2Fmundo&sd=31%2F08%2F2017&ed=31%2F08%2F2018&periodo=personalizado&results_count=3385&search_time=0%2C713&url=http%3A%2F%2Fsearch.folha.uol.com.br%2Fsearch%3Fq%3Dgoverno%2520temer%26site%255B%255D%3Donline%252Fpensata%26site%255B%255D%3Donline%252Fpaineldoleitor%26site%255B%255D%3Donline%252Fdinheiro%26site%255B%255D%3Donline%252Fmundo%26sd%3D31%252F08%252F2017%26ed%3D31%252F08%252F2018%26periodo%3Dpersonalizado&sr=0']
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse (self, response):
         
-        name_subject = 'dilma_roussef_01-01-2015--31-08-2016'
+        name_subject = 'michel_temer_31-08-2017--31-08-2018'
         save_path = 'extracted_texts/'
         name_file = 'links_folhasp_' + name_subject
         file_name = os.path.join (save_path, name_file + ".txt")
