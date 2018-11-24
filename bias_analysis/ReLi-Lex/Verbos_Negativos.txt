@@ -1,5 +1,6 @@
 [abandonar]
 [aborrecer]
+[adulterar]
 [arrepender]
 [assustar]
 [aterrorizar]

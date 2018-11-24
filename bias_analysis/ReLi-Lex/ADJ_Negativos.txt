@@ -10,6 +10,7 @@
 [chulo]
 [clichê]
 [confuso]
+[corrupto]
 [decepcionante]
 [defeituoso]
 [deplorável]
@@ -103,4 +104,3 @@
 [vazio]
 [violento]
 [volúvel]
-

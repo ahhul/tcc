@@ -175,7 +175,7 @@
 [obra]
 [ode]
 [original]
-[òtimo]
+[ótimo]
 [palpável]
 [passável]
 [perfeito]
@@ -239,5 +239,4 @@
 [vigoroso]
 [visceral]
 [vital]
-[voraz] 
-
+[voraz]

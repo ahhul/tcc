@@ -30,4 +30,6 @@ def dict_load ():
     
     return positive_words, negative_words
 
+def read_train_set (path)
+    pass
 dict_load()
