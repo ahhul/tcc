@@ -1,0 +1,24 @@
+url: https://www1.folha.uol.com.br/mercado/2017/12/1943511-no-brasil-teles-tambem-vao-pedir-mudanca-de-neutralidade-de-rede.shtml
+title: No Brasil, teles também vão pedir mudança de neutralidade de rede
+date: 15/12/2017
+text: 
+
+As empresas de telefonia aguardarão as discussões da , em fevereiro, para pedir a Michel Temer a revisão do decreto que hoje garante a isonomia na internet (neutralidade de rede), princípio que impede as teles de cobrar mais dos clientes para determinados serviços digitais.
+
+A estratégia foi adotada depois da decisão do Federal Communications Commision (FCC), a agência de telecomunicações dos EUA, que nesta quinta-feira (14)  ou "microgestões" pelas teles do tráfego de dados em suas redes.
+
+A decisão já tinha sido antecipada pelo próprio presidente do FCC. Indicado por Donald Trump, Ajit Pai afirmou, há cerca de dez dias, que queria ter a agenda de desregulamentação da internet aprovada até meados deste mês.
+
+A mudança permitirá, por exemplo, o bloqueio de acessos a determinados conteúdos ou aplicativos, a degradação da velocidade de navegação ou o pagamento extra para que determinados aplicativos de vídeo ofereçam a entrega de filmes em alta definição mais rápido que pelas conexões convencionais.
+
+No Brasil, um decreto assinado pela ex-presidente Dilma Rousseff, em 2016, fechou todas as portas para esse tipo de prática no país.
+
+O decreto tornou ainda mais dura a regra definida pelo Marco Civil da Internet que proíbe qualquer tratamento discriminatório no tráfego da internet.
+
+De acordo com ele, no fluxo de informações pela rede, as teles não podem deixar que ninguém "fure a fila" das conexões. Ou seja, um e-mail tem o mesmo peso de um vídeo do YouTube.
+
+Naquele momento, as teles haviam fechado acordo com provedores de conteúdo e o governo para que fosse permitido fazer "gestões" do tráfego sem que configurasse discriminação.
+
+Segundo as empresas, os equipamentos hoje instalados na rede para coordenar as informações da internet têm "inteligência" para segurar pacotes de dados por milissegundos para dar passagem para outros pacotes sem que isso interfira na velocidade final de navegação contratada pelo cliente –algo que configura quebra da neutralidade de rede.
+
+Para elas, a decisão da agência americana permitirá esse tipo de situação e abre espaço para que o decreto no Brasil seja revisto até o fim do primeiro trimestre de 2018.
