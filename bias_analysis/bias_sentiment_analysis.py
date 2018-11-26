@@ -25,7 +25,7 @@ def build_training_base ():
 
     return training_base
 
-
+# separa o texto em sentenças
 def tokenize_text (text):
     sent = []
     for l in text:
@@ -33,13 +33,14 @@ def tokenize_text (text):
         for k in sl:
             sent.append(k)
     return sent
-
+# separa as sentenças em tokens (palavras)
 def tokenize_words (text):
     words = []
     for l in text:
         words.append (word_tokenize (l))
     return words
 
+# remove as stopwords (palavras que não agregam muito sentido)
 def remove_stop_words (text, words):
     for l in text:
         for w in l:
@@ -47,6 +48,7 @@ def remove_stop_words (text, words):
                 l.remove(w)
     return text
 
+# reduz a palavra ao radical
 def stemming_words (words_cleaned):
     stemmer = nltk.stem.RSLPStemmer()
     stem_words = []
@@ -55,7 +57,7 @@ def stemming_words (words_cleaned):
             nw = stemmer.stem(l)
             stem_words.append(nw)
     return stem_words
-
+# reduz as palavras dos arquivos de palavras com polaridade para seu radical
 def stemming_words_polarity (words_polarity):
     stemmer = nltk.stem.RSLPStemmer()
     stem_words_polarity = []
@@ -64,6 +66,7 @@ def stemming_words_polarity (words_polarity):
         stem_words_polarity.append(nw)
     return stem_words_polarity
 
+# analiza a polaridade da sentença
 def polarity_analysis():
     
     # carrega em words_np duas listas o arquivo de palavras com significado respectivamente positivo e negativo da lingua portuguesa
