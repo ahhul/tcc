@@ -1,5 +1,0 @@
-title: Congresso prorroga vigência da MP que altera a tabela do Imposto de Renda
-date: 04/05/2015
-text: 
-Segundo a Medida Provisória, serão aplicadas quatro faixas de reajuste de acordo com a renda do contribuinte: 6,5%, 6%, 5% e 4,5%; quem tem renda mensal de até 1.903,98 ficará isento do IR
-A MP substituiu a proposta vetada pela presidente Dilma Rousseff de uma correção linear de 6,5%. Segundo o texto, a partir de abril deste ano, serão aplicadas quatro faixas de reajuste de acordo com a renda do contribuinte: 6,5%, 6%, 5% e 4,5%. Com isso, contribuintes com renda mensal de até 1.903,98 ficarão isentos do recolhimento do tributo.Aqueles com renda entre 1.903,99 e 2.826,65 serão taxados a uma alíquota de 7,5%; os que ganham entre 2.826,66 e 3.751,05 serão taxados a uma alíquota de 15%; para quem recebe entre R$ 3.751,06 e 4.664,68, a cobrança será de 22,5%; e para os contribuintes com renda superior a R$ 4.664,68, a alíquota será cheia, de 27,5%.

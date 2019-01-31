@@ -1,9 +1,0 @@
-url: https://www1.folha.uol.com.br/mercado/2018/03/temer-define-que-bc-tera-que-aprovar-nomeacoes-de-bancos-publicos-federais.shtml
-title: 
-    BC terá que aprovar executivos de bancos públicos federais, define Temer
-  
-date: 25/03/2018
-text: 
-
-      Nomeações de Caixa, BB, Banco do Nordeste e Banco da Amazônia deverão seguir critério técnico
-    

@@ -1,9 +1,0 @@
-url: https://www1.folha.uol.com.br/mercado/2018/07/preco-do-diesel-parou-de-cair-no-pais-diz-agencia-nacional-do-petroleo.shtml
-title: 
-    Preço do diesel parou de cair no país, diz agência nacional do petróleo
-  
-date: 08/07/2018
-text: 
-
-      Na semana passada, o litro do combustível foi vendido, em média no país, a R$ 3,384
-    

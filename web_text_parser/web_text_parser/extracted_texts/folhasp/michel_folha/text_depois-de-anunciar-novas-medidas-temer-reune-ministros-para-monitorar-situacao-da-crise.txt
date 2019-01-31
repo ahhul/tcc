@@ -1,9 +1,0 @@
-url: https://www1.folha.uol.com.br/mercado/2018/05/depois-de-anunciar-novas-medidas-temer-reune-ministros-para-monitorar-situacao-da-crise.shtml
-title: 
-    Depois de anunciar novas medidas, Temer reúne ministros para monitorar situação da crise
-  
-date: 28/05/2018
-text: 
-
-      Encontro acontece após anúncio de desconto no litro do diesel
-    O presidente Michel Temer participa na manhã desta segunda-feira (28) de nova reunião do gabinete criado para monitorar a paralisação dos caminhoneiros e a crise de desabastecimento.O encontro o ocorre um dia depois de  de desconto de R$ 0,46 no litro do diesel e ter assinado três Medidas Provisórias para atender a pedidos da categoria.Além do presidente, participam da reunião os ministros Eliseu Padilha (Casa Civil), Sérgio Etchegoyen (GSI), Raul Jungmann ( Segurança Pública), Carlos Marun ( Secretaria de Governo), Grace Mendonça (AGU), Valter Casimiro (Transportes), Rossielli Soares (Educação), Gilberto Occhi (Saúde).
