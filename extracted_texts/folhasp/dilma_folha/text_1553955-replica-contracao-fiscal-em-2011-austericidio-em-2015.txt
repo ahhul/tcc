@@ -1,0 +1,30 @@
+url: https://www1.folha.uol.com.br/mercado/2014/11/1553955-replica-contracao-fiscal-em-2011-austericidio-em-2015.shtml
+title: Réplica: Contração fiscal em 2011; austericídio em 2015?
+date: 27/11/2014
+text: 
+
+Em sua mais recente , Samuel Pessôa discute a contração fiscal de 2011 e seu impacto no crescimento do primeiro mandato do governo Dilma. A motivação para tal discussão veio de artigo no "Valor" de minha autoria no qual defendo um regime de bandas fiscais como forma de contornar o caráter pró-cíclico da política fiscal brasileira.
+
+Pessôa parece concordar com o argumento principal, ao reconhecer a interação entre a política fiscal o ciclo econômico: "Se a política econômica tentar neutralizar a piora no superavit primário em momentos de desaceleração, poderá agravar ainda mais a situação". Mas sua crítica tem como alvo o argumento de que a contração fiscal de 2011 teve uma forte contribuição para a desaceleração econômica dos anos seguintes.
+
+Esse argumento é compartilhado por uma parcela importante dos economistas da academia e do governo e discutido no artigo de Serrano e Summa, "A Desaceleração Rudimentar da Economia Brasileira desde 2011" e no livro "Finanças Públicas e Macroeconomia no Brasil", publicado pelo Ipea.
+
+O debate é importante, pois trata dos impactos macroeconômicos da política fiscal, e oportuno, pois condiciona a análise da necessidade do ajuste em 2015.
+
+De um lado, defendemos que um pé no freio em 2015 repetirá o erro de 2011. De outro, argumentam que o ajuste de 2011 não tem relevância para explicar a desaceleração subsequente, o que fortalece a defesa do ajuste fiscal. E, para defender esse último ponto, Pessôa recorre aos cálculos de multiplicador e impulso fiscal para constatar que a retração fiscal de 2011 não teve impacto tão significativo e foi compensada por expansão fiscal subsequente.
+
+Seria enfadonho submeter o leitor a um debate técnico, mas é necessário ressaltar que o multiplicador fiscal não é fixo e depende do comportamento dos outros componentes da demanda e do tipo de estimulo fiscal (se é gasto corrente, desoneração, investimento etc.).
+
+Em artigo publicado neste ano, na revista "Economia Aplicada", Manoel Pires mostra que um impulso no investimento público tem efeito multiplicador sobre a renda entre 1,4 e 1,7, já uma redução da carga tributaria líquida tem multiplicador menor que 1.
+
+Isso considerado, o raciocínio de Pessôa, de que os impulsos fiscais do governo Dilma se compensam, é inadequado. Intuitivamente, a economia não é um jogo de Lego em que se pode tirar uma peça e colocá-la de volta sem modificar a estrutura.
+
+A narrativa alternativa é que a contração fiscal de 2011 (o investimento público teve queda real de 12% e o investimento das estatais caiu 8,6%), com outras medidas contracionistas, contribuiu de forma pró-cíclica para a forte desaceleração da economia brasileira, em um ambiente no qual já desaceleravam a demanda interna e externa.
+
+O PIB mostra desaceleração já no primeiro tri de 2011 e o investimento agregado despenca ao longo do ano até apresentar taxas negativas em 2012. Como reação ao quadro recessivo, o estímulo fiscal dos anos seguintes não recupera o investimento público e faz forte uso das desonerações fiscais, cujo efeito multiplicador é menor.
+
+Dito isso, um forte ajuste em 2015 pode se mostrar um erro. O cenário hoje é de desaceleração, e uma contração fiscal pode, mais uma vez, conduzir à recessão. E aqui há outra inadequação no artigo de Pessôa: é contraditório concordar com uma política fiscal anticíclica e, simultaneamente, justificar o aperto fiscal na baixa do ciclo.
+
+Portanto, em vez de uma forte contração, o Brasil precisa reorientar o regime fiscal e, sobretudo, ampliar o investimento público. O reequilíbrio das contas públicas virá com o crescimento.
+
+ é professor do Instituto de Economia da Unicamp

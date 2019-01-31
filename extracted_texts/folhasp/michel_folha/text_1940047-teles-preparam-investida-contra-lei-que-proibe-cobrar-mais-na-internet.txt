@@ -1,0 +1,44 @@
+url: https://www1.folha.uol.com.br/mercado/2017/12/1940047-teles-preparam-investida-contra-lei-que-proibe-cobrar-mais-na-internet.shtml
+title: Teles preparam investida contra lei que proíbe cobrar mais na internet
+date: 02/12/2017
+text: 
+
+As operadoras brasileiras de telefonia aguardam  (agência americana de telecomunicações) para pressionar o presidente Michel Temer a modificar um decreto que hoje proíbe as teles de cobrarem mais dos clientes que querem determinados serviços na internet.
+
+Conhecido como neutralidade de rede, o princípio está prestes a ser quebrado pelo FCC. O presidente da agência, Ajit Pai, já afirmou que "sob sua gestão, o governo federal vai parar de fazer 'microgestões' na internet".
+
+Pai disse ainda que quer ter a agenda de desregulamentação da internet aprovada até meados deste mês.
+
+A mudança permitirá, por exemplo, o bloqueio de acessos a determinados conteúdos ou aplicativos, a degradação da velocidade de navegação ou o pagamento extra para que determinados aplicativos de vídeo ofereçam a entrega de filmes em alta definição mais rápido que pelas conexões convencionais.
+
+A alteração seria o fim do princípio que garante a isonomia aos internautas.
+
+No Brasil, as teles aguardam essa decisão para tentar reverter decreto assinado pela ex-presidente Dilma Rousseff, em 2016, e que fechou todas as portas para esse tipo de prática no país.
+
+O decreto tornou ainda mais dura a regra definida pelo Marco Civil da Internet que proíbe qualquer tratamento discriminatório no tráfego da internet. De acordo com ele, no fluxo de informações pela rede, as teles não podem deixar que ninguém "fure a fila" das conexões. Ou seja, um e-mail tem o mesmo peso de um vídeo do YouTube.
+
+A neutralidade pressupõe que as operadoras não podem, à revelia, determinar quem tem prioridade na fila das conexões.
+
+É justamente isso o que está prestes a ser modificado nos EUA. No Brasil, as teles tentam quebrar esse paradigma no setor desde 2014, quando o Marco Civil foi aprovado pelo Congresso.
+
+Elas afirmam que cabe às empresas organizar (gerenciar) o fluxo de dados nas redes para evitar congestionamentos. O setor defende que não haverá prejuízo para os consumidores mesmo se houver tratamento diferenciado com a cobrança extra para pacotes com garantia de entrega mais rápida de vídeos em alta qualidade.
+
+Por isso, começarão uma rodada de visitas ao Planalto, ao Congresso, aos ministérios das Comunicações e da Justiça e à Anatel assim que a decisão do FCC for tomada.
+
+
+
+As teles contam ainda com uma nova oportunidade com a regulação da chamada "internet das coisas".
+
+O termo é usado para definir a comunicação via internet entre equipamentos. Semáforos seriam dotados de chips e sensores especiais capazes de controlar o tempo de espera de acordo com as imagens dos carros circulando nas vias. Hospitais teriam cirurgias realizadas via internet à distância. As aplicações são inúmeras e em todos os setores da economia.
+
+Nas discussões iniciais com o governo, as teles já se posicionaram considerando que, devido a motivos de segurança, esse tipo de comunicação precisa ter um tratamento prioritário.
+
+Caso contrário, no trânsito, poderia haver acidentes e, nos hospitais, risco de morte.
+
+Ou seja: as operadoras usam a internet das coisas para justificar a quebra da neutralidade na rede.
+
+Na Anatel (agência reguladora), os regulamentos só fazem detalhar políticas públicas. Hoje, como o Marco Civil proíbe a discriminação, a agência pune infrações.
+
+No entanto, caso a nova política pública seja a de dar tratamento diferenciado para as conexões entre máquinas, os regulamentos da agência terão de ser refeitos.
+
+Para alguns conselheiros, isso abrirá um precedente para que o próprio Marco Civil seja revisto.

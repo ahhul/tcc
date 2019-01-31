@@ -1,0 +1,32 @@
+url: https://www1.folha.uol.com.br/poder/2015/03/1609653-punir-uso-de-robo-na-web-requer-leis-mais-claras.shtml
+title: Punir uso de robô na web requer leis mais claras
+date: 29/03/2015
+text: 
+
+Usar robôs para criticar adversários na web é crime, identificar os responsáveis é possível, e a Lei Eleitoral deve ser alterada por causa da ferramenta, que também possui aplicações legítimas. A opinião é de especialistas consultados pela  após relatório da Secretaria de Comunicação da Presidência confirmar o uso da técnica.
+
+No documento, revelado pelo jornal "O Estado de S. Paulo", além de admitir ter usado robôs, o governo federal acusa a campanha do senador Aécio Neves (PSDB-MG) de fazer o mesmo. Em setembro, a  revelou que, durante debate entre o tucano e a presidente Dilma Rousseff (PT), .
+
+Os "bots", como são chamados no jargão da rede, são programas feitos para replicar mensagens específicas ou para inflar números de seguidores. Trata-se de uma tentativa de enganar os algoritmos das redes sociais, cuja função é definir os assuntos mais relevantes sendo comentados em determinado momento.
+
+Desse modo, é possível espalhar boatos contra adversários, inflar boas notícias sobre um candidato ou pôr na pauta de discussões um tema que, na verdade, não está sendo comentado de maneira "orgânica", ou seja, por usuários de carne e osso.
+
+A finalidade com que os robôs é usada, nesse sentido, se torna essencial para definir se houve ou não crime, diz Pedro Mizukami, pesquisador do CTS (Centro de Tecnologia e Sociedade) da FGV-RJ.
+
+Há usos possíveis dentro da legalidade. Um deles é pedir autorização a usuários reais para fazer postagens automáticas em suas contas –o que já foi feito em campanhas no Brasil. Porém, dependendo da atuação, é possível enquadrá-la em crimes comuns.
+
+Caso o "bot" tenha sido usado para elogiar um candidato, por outro lado, a questão deve ser analisada a partir do financiamento. Se o partido ou o candidato pagou pela ferramenta, é crime. "Propaganda eleitoral paga na internet não é zona cinzenta, é proibido", diz Mizukami.
+
+
+
+Uma futura mudança na Lei Eleitoral deve contemplar o uso de robôs nos pleitos, aposta Carlos Affonso Pereira de Souza, diretor do ITS (Instituto de Tecnologia e Sociedade) e professor de direito na Uerj (Universidade do Estado do Rio de Janeiro).
+
+"As alterações relacionadas à internet feitas pela Lei Eleitoral em 2010 foram todas focadas em spam", exemplifica. "As alterações de 2013 foram muito mais focadas em redes sociais", continua.
+
+Desse modo, diz, contemplar o uso de robôs seria uma evolução natural. "É possível que a legislação comece também a tratar de compartilhamento de vídeos, como no WhatsApp", afirma. "Isso vem bem forte na próxima alteração da Lei Eleitoral."
+
+Hoje, o primeiro passo a fim de identificar os responsáveis é requisitar à rede social, judicialmente, o registro dos IPs –espécie de "endereço" de cada computador na web– que acessaram as contas artificiais, que deve ser armazenado por seis meses.
+
+Depois, é necessário fazer outro pedido, à empresa que forneceu acesso à web –pelo número, a companhia é capaz de descobrir a identidade do assinante, dado que deve ser guardado por um ano.
+
+Identificado o responsável pelos "bots", ele pode ser processado por crimes comuns, como calúnia e difamação.

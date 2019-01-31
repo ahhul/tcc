@@ -1,0 +1,36 @@
+url: https://www1.folha.uol.com.br/mercado/2015/08/1663226-para-ministro-do-planejamento-cambio-turva-custo-da-divida.shtml
+title: Para ministro do Planejamento, câmbio 'turva' custo da dívida
+date: 01/08/2015
+text: 
+
+O ministro do Planejamento, Nelson Barbosa, defendeu, em reunião fechada com economistas na sexta passada (24), mudança na contabilização do pagamento de juros sobre a dívida pública.
+
+Não há proposta detalhada nem espaço para apresentá-la agora, porém, já que isso poderia comprometer a confiança nas contas públicas.
+
+"O problema é que, se você fizer isso de supetão, sabe o que as pessoas vão dizer, né? Que está maquiando... que está mudando...", disse Barbosa, na FGV, em São Paulo.
+
+A questão passa por operações do BC chamadas de "swap", ligadas ao dólar (veja quadro ao lado). Funciona da seguinte forma: uma empresa importadora, por exemplo, pode querer se proteger de uma alta do dólar. Faz então um contrato, no qual o BC se compromete a pagar em reais, em certa data, a variação da cotação do dólar, mais uma taxa (chamada de cupom cambial). Em troca, a empresa paga a taxa Selic.
+
+Quando o dólar sobe mais que o previsto, o BC perde. É o que tem ocorrido neste ano. De janeiro a maio, a perda com swap está em R$ 41,3 bilhões. O valor é contabilizado como despesa do governo com juros da dívida pública.
+
+"É uma discussão que estava querendo ter até com o BC. Para contabilizar juros, você tinha que pegar a diferença de Selic e cupom cambial [taxa de juro em dólar] e jogar a variação cambial no ajuste patrimonial. Ele joga a variação cambial como pagamento de juros", disse o ministro.
+
+Os juros foram de 4,69% do PIB, em maio de 2014, para 7,2% em maio de 2015 –1,33 ponto percentual desse total é devido ao swap cambial, incluído na conta "outros".
+
+Barbosa apresentou o raciocínio ao ser questionado sobre a recente alta dos juros. Para ele, há a percepção de que a alta da Selic é a principal causa do aumento, mas é preciso esclarecer o quanto vem da variação cambial.
+
+
+
+"A gente está discutindo isso agora porque, dessa magnitude, o swap é relativamente recente. Poderia e deveria ser reclassificado como variação cambial. O problema é que, se você fizer isso de supetão, sabe o que as pessoas vão dizer, né? Que está maquiando... que está mudando...", disse o ministro.
+
+Apesar do impacto do swap no custo da dívida pública, o BC só começou a reduzir o estoque de mais de US$ 100 bilhões em meados deste ano.
+
+No encontro, Barbosa repetiu que não é possível mexer nos dados agora, principalmente em um momento em que o TCU questiona as contas do primeiro governo Dilma. Mas "é uma questão de tempo. Vai ter que mudar".
+
+Uma eventual mudança na contabilização dos juros não afetaria o cumprimento da meta fiscal estabelecida pelo governo, calculada com base no superavit primário (receitas menos gastos, excetuadas as despesas com juros).
+
+
+
+Em nota enviada à  após a reunião, o ministério disse não ter a intenção de mudar os cálculos e que os números devem continuar sendo divulgados na metodologia atual –que, segundo o BC, segue padrões internacionais. Segundo a nota, o que se defende é que o impacto dos swaps seja divulgado, para que os interessados usem o dado que avaliarem adequado.
+
+"Essa era a discussão sobre a qual já está em contato com o BC", diz a nota. "Não significa, em nenhuma medida, iniciativa de eventual mudança na metodologia."

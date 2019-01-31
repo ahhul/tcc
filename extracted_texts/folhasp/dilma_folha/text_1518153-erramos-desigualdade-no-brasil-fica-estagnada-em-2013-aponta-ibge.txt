@@ -1,0 +1,6 @@
+url: https://www1.folha.uol.com.br/mercado/2014/09/1518153-erramos-desigualdade-no-brasil-fica-estagnada-em-2013-aponta-ibge.shtml
+title: Erramos: Desigualdade no Brasil fica estagnada em 2013, aponta IBGE
+date: 18/09/2014
+text: 
+
+Diferentemente do que informou o título da reportagem  (Mercado - 18/09/2014 10h00), não é possível afirmar que a desigualdade no país aumentou apenas com base no crescimento de 0,002 do indicador que mensura a distribuição dos rendimentos do trabalho e de 0,001 do que mede as fontes de rendimento. Os dados apontam que há uma estagnação do modelo de redução da desigualdade. O texto foi corrigido.

@@ -1,10 +1,20 @@
 # -*- coding: utf-8 -*-
 def make_list ():
-    with open ("extracted_texts/links_folhasp_michel_temer_31-08-2017--31-08-2018.txt", "r") as f:
+    with open ("extracted_texts/terra_vida_estilo_comportamento_mulher.txt", "r") as f:
         urls = f.readlines()
         f.close()
 
-    with open ("extracted_texts/list_links_folhasp_michel_temer_31-08-2017--31-08-2018.txt", "w") as links:
+    with open ("extracted_texts/formated_terra_vida_estilo_comportamento_mulher.txt", "w") as links:
+        links.write("[ ")
+        for l in urls:
+            links.write('\''+ l[:len(l)-1] +'\',\n')
+        links.write("]")
+
+    with open ("extracted_texts/terra_vida_estilo_comportamento_homem.txt", "r") as f:
+        urls = f.readlines()
+        f.close()
+
+    with open ("extracted_texts/formated_terra_vida_estilo_comportamento_homem.txt", "w") as links:
         links.write("[ ")
         for l in urls:
             links.write('\''+ l[:len(l)-1] +'\',\n')

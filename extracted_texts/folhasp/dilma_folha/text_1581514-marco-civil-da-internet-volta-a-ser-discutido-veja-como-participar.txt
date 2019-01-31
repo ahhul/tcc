@@ -1,0 +1,26 @@
+url: https://www1.folha.uol.com.br/mercado/2015/01/1581514-marco-civil-da-internet-volta-a-ser-discutido-veja-como-participar.shtml
+title: Marco Civil da Internet volta a ser debatido; veja como participar
+date: 28/01/2015
+text: 
+
+O governo federal lança nesta quarta (28) uma plataforma digital que permitirá a qualquer pessoa conectada participar da regulamentação do Marco Civil da Internet.
+
+A lei, aprovada em 2014 pelo Congresso, é uma espécie de Constituição da vida on-line e afeta não só internautas mas também a operação de gigantes da tecnologia, como Google e Facebook, e provedores nacionais de internet.
+
+O Marco Civil estabelece princípios legais, além de direitos e deveres desses atores. Criado também após consultas on-line, ele é celebrado pelo governo Dilma Rousseff por ter alcançado reconhecimento internacional logo após o escândalo mundial criado pelas revelações de espionagem ilegal feitas pelo americano Edward Snowden.
+
+O processo, que começa hoje, por meio do site , tem como objetivo gerar, por 30 dias, comentários que serão usados pelo governo para embasar futuro decreto presidencial, em que diversos aspectos da lei que ainda estão em aberto serão detalhados.
+
+A consulta pública será dividida em três eixos. O primeiro se refere à chamada "neutralidade de rede". O termo descreve o tratamento isonômico, por parte dos provedores, de todo tipo de informação que transita pela rede.
+
+De acordo com esse princípio, embutido no design original da internet, uma empresa não pode, por exemplo, bloquear ou deteriorar a velocidade de um pacote de dados para prejudicar um concorrente comercial.
+
+O Marco Civil prevê, no entanto, que em algumas situações ("requisitos técnicos indispensáveis à prestação adequada dos serviços e aplicações" e "priorização a serviços de emergência") a neutralidade poderá ser violada. Falta dizer o que são esses requisitos e serviços e como eles se sobreporiam à obrigação de isonomia.
+
+O segundo eixo de consulta se refere à guarda de registros de conexão à rede ou de acesso a serviços e aplicativos criados por empresas em relação à atividade de usuários. O problema a ser resolvido é definir que provedores estão sujeitos à lei e explicar como, exatamente, deve ser essa guarda. O terceiro eixo especificará como as empresas preservarão, na prática, a privacidade dos cidadãos.
+
+Empresas e sociedade civil também devem participar. Para Laura Tresca, cientista social da ONG Artigo 19, a consulta on-line é positiva, mas não pode ser capturada por interesses privados.
+
+
+
+O governo também lança hoje uma segunda plataforma digital ( ) para debater outra iniciativa legal: um projeto de lei para aprofundar a proteção de dados pessoais. A consulta deve basear um futuro projeto de lei a ser discutido pelo Congresso.
