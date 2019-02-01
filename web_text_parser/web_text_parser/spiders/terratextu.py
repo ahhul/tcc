@@ -148,8 +148,29 @@ class LinksTerraUnissexSpider(scrapy.Spider):
 
     def parse(self, response):
 
+        if re.findall("vida-e-estilo/", response.url):
+            name_subject = 'unissex_text_' + str(self.global_dpage)
+            save_path = 'extracted_texts/terra_unissex_clean'
+            file_name = os.path.join(save_path, name_subject)
+
+            title = \
+                response.xpath('//div[@class="title headline"]/h1/text()'
+                               ).extract()[0]
+            sentences = response.xpath('//p/text()').extract()
+
+            with open(file_name, 'a') as f:
+                f.write('titulo: ' + str(title) + '\n')
+                if response.xpath('//div[@class="subtitle subtitle--M"]/h2/text()'
+                                  ):
+                    subtitle = \
+                        response.xpath('//div[@class="subtitle subtitle--M"]/h2/text()'
+                            ).extract()[0]
+                    f.write('subtitulo: ' + str(subtitle) + '\n')
+                for s in sentences:
+                    f.write(str(s))
+
         if re.findall("vida-e-estilo/mulher", response.url):
-            name_subject = 'mulher_text_' + str(self.global_dpage)
+            name_subject = 'unissex_text_' + str(self.global_dpage)
             save_path = 'extracted_texts/terra_unissex_clean'
             file_name = os.path.join(save_path, name_subject)
 
@@ -169,7 +190,7 @@ class LinksTerraUnissexSpider(scrapy.Spider):
                     f.write(str(s))
 
         if re.findall('womenshealthbrasil', response.url):
-            name_subject = 'mulher_text_' + str(self.global_dpage)
+            name_subject = 'unissex_text_' + str(self.global_dpage)
             save_path = 'extracted_texts/terra_unissex_clean'
             file_name = os.path.join(save_path, name_subject)
 
@@ -184,7 +205,7 @@ class LinksTerraUnissexSpider(scrapy.Spider):
                     f.write(str(s))
 
         if re.findall('papodemae', response.url):
-            name_subject = 'mulher_text_' + str(self.global_dpage)
+            name_subject = 'unissex_text_' + str(self.global_dpage)
             save_path = 'extracted_texts/terra_unissex_clean'
             file_name = os.path.join(save_path, name_subject)
 
@@ -198,7 +219,29 @@ class LinksTerraUnissexSpider(scrapy.Spider):
 
 
         if re.findall("vida-e-estilo/homem", response.url):
-            name_subject = 'homem_text_' + str(self.global_dpage)
+            name_subject = 'unissex_text_' + str(self.global_dpage)
+            save_path = 'extracted_texts/terra_unissex_clean'
+            file_name = os.path.join(save_path, name_subject)
+
+            title = \
+                response.xpath('//div[@class="title headline"]/h1/text()'
+                               ).extract()[0]
+            sentences = response.xpath('//p/text()').extract()
+
+            with open(file_name, 'a') as f:
+                f.write('titulo: ' + str(title) + '\n')
+                if response.xpath('//div[@class="subtitle subtitle--M"]/h2/text()'
+                                  ):
+                    subtitle = \
+                        response.xpath('//div[@class="subtitle subtitle--M"]/h2/text()'
+                            ).extract()[0]
+                    f.write('subtitulo: ' + str(subtitle) + '\n')
+                for s in sentences:
+                    f.write(str(s))
+
+
+        if re.findall("culinaria/", response.url):
+            name_subject = 'unissex_text_' + str(self.global_dpage)
             save_path = 'extracted_texts/terra_unissex_clean'
             file_name = os.path.join(save_path, name_subject)
 
@@ -219,8 +262,8 @@ class LinksTerraUnissexSpider(scrapy.Spider):
                     f.write(str(s))
 
         if re.findall('areah', response.url):
-            name_subject = 'homem_text_' + str(self.global_dpage)
-            save_path = 'extracted_texts/terra_unissex_clean'
+            name_subject = 'unissex_text_' + str(self.global_dpage)
+            save_path = 'extracted_texts/terra_unissex'
             file_name = os.path.join(save_path, name_subject)
 
             title = response.xpath('//h1[@itemprop="name"]/text()'
