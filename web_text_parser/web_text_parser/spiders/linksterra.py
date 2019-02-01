@@ -12,8 +12,7 @@ class LinksTerraSpider(scrapy.Spider):
     global_dpage = 1
 
     def start_requests(self):
-        urls = ['https://www.terra.com.br/vida-e-estilo/homem/comportamento',
-                'https://www.terra.com.br/vida-e-estilo/mulher/comportamento']
+        urls = ['https://www.terra.com.br/vida-e-estilo/', 'https://www.terra.com.br/vida-e-estilo/homem', 'https://www.terra.com.br/vida-e-estilo/mulher', 'https://www.terra.com.br/vida-e-estilo/comportamento', 'https://www.terra.com.br/vida-e-estilo/homem/comportamento', 'https://www.terra.com.br/vida-e-estilo/mulher/comportamento']
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
@@ -23,7 +22,7 @@ class LinksTerraSpider(scrapy.Spider):
         woman = re.compile('mulher')
 
         if re.findall(man, response.url):
-            name_subject = 'terra_vida_estilo_comportamento_homem.txt'
+            name_subject = 'terra_vida_estilo_homem.txt'
             save_path = 'extracted_texts/'
             file_name = os.path.join(save_path, name_subject)
 
@@ -35,14 +34,27 @@ class LinksTerraSpider(scrapy.Spider):
                     f.write('\n')
 
         if re.findall(woman, response.url):
-            name_subject = 'terra_vida_estilo_comportamento_mulher.txt'
+            name_subject = 'terra_vida_estilo_mulher.txt'
             save_path = 'extracted_texts/'
             file_name = os.path.join(save_path, name_subject)
 
             with open(file_name, 'a') as f:
                 for url in \
                     response.xpath('//a[@class="main-url text"]/@href'
-                                   ).extract():	
+                                   ).extract():
+                    f.write(str(url))
+                    f.write('\n')
+
+        if re.findall('https://www.terra.com.br/vida-e-estilo/'
+                      , response.url):
+            name_subject = 'terra_vida_estilo_unissex.txt'
+            save_path = 'extracted_texts/'
+            file_name = os.path.join(save_path, name_subject)
+
+            with open(file_name, 'a') as f:
+                for url in \
+                    response.xpath('//a[@class="main-url text"]/@href'
+                                   ).extract():
                     f.write(str(url))
                     f.write('\n')
 
@@ -55,4 +67,4 @@ class LinksTerraSpider(scrapy.Spider):
         if next_page is not None:
             next_page = response.urljoin(next_page)
             yield scrapy.Request(next_page, callback=self.parse)
-
+	
